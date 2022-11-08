@@ -1,0 +1,7 @@
+{
+  "name": "wails-template-quasar-ts",
+  "shortname": "quasar-ts",
+  "author": "Sean Gosiaco <sgosiaco@me.com>",
+  "description": "A template using quasar + vite + ts",
+  "helpurl": "https://github.com/sgosiaco/wails-template-quasar-ts"
+}
